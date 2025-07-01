@@ -181,6 +181,10 @@ const Home: React.FC = () => {
           </div>
         </div>
       </section>
+      {/* Attribution */}
+      <div className="text-center text-gray-400 text-sm mt-8">
+        Built with bolt.new
+      </div>
     </div>
   );
 };
